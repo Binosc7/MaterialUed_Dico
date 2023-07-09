@@ -1,0 +1,45 @@
+/* 
+ *Copyright ¨Ï 2023 Suchan7820. All rights reserved.
+ *
+ * projectname: MaterialUed_Dico
+ * description: A theme Inspired by Google's MaterialU
+ * author: Suchan7820
+ * github profile: http://github.com/Suchan7820
+ * plz donate me: https://toss.me/binosc7/
+ */
+
+@import url(https://suchan7820.github.io/MaterialUed_Dico/MaterialUed_Dico_source.css);
+:root {
+	--accent-hue: 224;
+	--accent-saturation: 71%;
+	--accent-lightness: 61%;
+	--accent-text-color: #fff;
+	--accent-button-action: #fff;
+	--avatar-radius: 50%;
+	--message-radius: 19px;
+	--message-padding-top: 8px;
+	--message-padding-side: 12px;
+	--media-radius: 19px;
+	--card-radius: 8px;
+	--card-radius-big: 18px;
+	--popout-radius: 8px;
+	--popout-radius-big: 18px;
+}
+/* Recommend Setting
+	:root {
+	--accent-hue: 224;
+	--accent-saturation: 71%;
+	--accent-lightness: 61%;
+	--accent-text-color: #fff;
+	--accent-button-action: #fff; 
+	--avatar-radius: 50%; 
+	--message-radius: 0px;
+	--message-padding-top: 8px;
+	--message-padding-side: 6px; 
+	--media-radius: 8px; 
+	--card-radius: 8px;
+	--card-radius-big: 8px; 
+	--popout-radius: 8px;
+	--popout-radius-big: 8px;
+	}
+*/
