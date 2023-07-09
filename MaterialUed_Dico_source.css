@@ -1,5 +1,5 @@
 /* 
- *Copyright ¨Ï 2023 Suchan7820. All rights reserved.
+ *Copyright â“’ 2023 Suchan7820. All rights reserved.
  *
  * projectname: MaterialUed_Dico
  * description: A theme Inspired by Google's MaterialU
@@ -8,10 +8,10 @@
  * plz donate me: https://toss.me/binosc7/
  */
 
-@import url("https://suchan7820.github.io/MaterialUed_Dico/css/fonts/google-sans.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css");
 @import url("https://suchan7820.github.io/MaterialUed_Dico/css/icons.css");
 :root {
-  --app-font: "Google Sans";
+  --app-font: "Pretendard";
   --app-bg: var(--main-alt);
   --accent-hue: 224;
   --accent-saturation: 71%;
@@ -288,16 +288,12 @@ body,
   height: 22px;
 }
 .wordmark-2u86JB.wordmarkWindows-2dq6rw:before {
-  content: "Material";
-  font-weight: 700;
-}
-.wordmark-2u86JB.wordmarkWindows-2dq6rw:after {
-  content: "Discord";
+    content: "â€‹ Discord";
+    font-weight: 700;
 }
 .wordmark-2u86JB.wordmarkWindows-2dq6rw svg {
-  display: none;
+    display: none;
 }
-
 .typeWindows-2-g3UY.withFrame-2dL45i {
   height: var(--window-title-bar);
   margin-top: 0;
@@ -937,7 +933,7 @@ body,
  *
  */
 .privateChannels-oVe7HL {
-  background-color: var(--main-color);
+  background-color: var(--sidebar-channelselection-color);
 }
 .privateChannels-oVe7HL .scroller-WSmht3 {
   background-color: transparent;
@@ -6653,7 +6649,7 @@ div[role=radiogroup] {
   width: calc(var(--message-radius) / 3);
   height: calc(var(--message-radius) / 2);
   top: calc(var(--message-radius) / 2 * -1);
-  background-color: var(--message-color);
+  background-color: transparent;
   pointer-events: none;
   transition: var(--default-time) var(--default-animation) background-color;
 }
