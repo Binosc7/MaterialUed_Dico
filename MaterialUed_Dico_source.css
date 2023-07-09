@@ -301,83 +301,10 @@ body,
   margin-top: 0;
 }
 .typeWindows-2-g3UY .winButton-3UMjdg {
-  height: var(--window-title-bar);
-  top: 0;
+    width: 45px;
+    height: var(--window-title-bar);
+    top: 0;
 }
-.typeWindows-2-g3UY .winButton-3UMjdg:before {
-  position: absolute;
-  content: " ";
-  width: 12px;
-  height: 12px;
-  background-position: center;
-  -webkit-mask-size: contain;
-  mask-size: contain;
-  filter: brightness(40%);
-  z-index: 2;
-  opacity: 0;
-  transition: var(--default-time) var(--default-animation) opacity;
-  pointer-events: none;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg:hover:before {
-  opacity: 1;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg:after {
-  position: absolute;
-  content: " ";
-  width: 16px;
-  height: 16px;
-  border-radius: 50%;
-  background-color: var(--window-button);
-  transition: var(--default-time) var(--default-animation);
-  pointer-events: none;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg:active:after {
-  opacity: 0.65;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3RsPUg:nth-last-of-type(2):hover:after {
-  background-color: var(--window-button-max);
-}
-.typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3RsPUg:nth-last-of-type(2):before {
-  background-color: var(--window-button-max);
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/window_maximize.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/window_maximize.svg);
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3RsPUg:nth-last-of-type(1):hover:after {
-  background-color: var(--window-button-min);
-}
-.typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3RsPUg:nth-last-of-type(1):before {
-  background-color: var(--window-button-min);
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/window_minimize.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/window_minimize.svg);
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg.winButtonClose-3Q8ZH5:hover:after {
-  background-color: var(--window-button-close);
-}
-.typeWindows-2-g3UY .winButton-3UMjdg.winButtonClose-3Q8ZH5:before {
-  background-color: var(--window-button-close);
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/window_close.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/window_close.svg);
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg:hover, .typeWindows-2-g3UY .winButton-3UMjdg:active {
-  background-color: transparent;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg svg {
-  display: none;
-}
-
-html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg:after {
-  background-color: var(--window-button-inactive);
-}
-html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3RsPUg:after {
-  background-color: var(--window-button-inactive);
-}
-
 /*
  *
  *	LOGIN SCREEN
