@@ -84,14 +84,15 @@
   --server-folder-color: rgba(255,255,255,0.085);
   --status-picker-color: #2c2d31;
   --sidebar-panel-color: #212226;
+  --sidebar-channelselection-color: #131416;
   --chat-color: var(--main-color);
   --message-color: hsl(216,7%,14%);
   --message-color-hover: hsl(216,7%,18%);
   --message-color-alt: hsl(216,7%,13%);
   --attachment-color: hsl(216,7%,9%);
   --typing-color: rgba(22,23,26,0.9);
-  --popout-color: #2c2f33;
-  --popout-color-alt: #202225;
+  --popout-color: #232428;
+  --popout-color-alt: #111214;
   --popout-header-border: rgba(255,255,255,0.125);
   --separator-color: rgba(255,255,255,0.125);
   --header-secondary: #eaeaea;
@@ -150,6 +151,7 @@
   --server-folder-color: rgba(0,0,0,0.1);
   --status-picker-color: #dee0e0;
   --sidebar-panel-color: #ebeced;
+  --sidebar-channelselection-color: #f1f1f1;
   --chat-color: var(--main-color);
   --message-color: hsl(210,4%,90%);
   --message-color-hover: hsl(210,4%,86%);
@@ -157,8 +159,8 @@
   --attachment-color: hsl(210,4%,79%);
   --main-textarea-color-alt: hsl(0,0%,98%);
   --typing-color: hsla(0,0%,97.6%,0.9);
-  --popout-color: #fff;
-  --popout-color-alt: #e5e5e5;
+  --popout-color: #ebedef;
+  --popout-color-alt: #ffffff;
   --popout-header-border: #ccc;
   --separator-color: rgba(0,0,0,0.195);
   --header-secondary: #444;
@@ -384,7 +386,7 @@ body,
 }
 .sidebar-1tnWFu,
 .sidebar-1tnWFu .container-1NXEtd {
-  background-color: var(--main-color);
+  background-color: var(--sidebar-channelselection-color);
 }
 .sidebar-1tnWFu .content-yjf30S {
   margin-bottom: 11px;
@@ -1449,11 +1451,11 @@ body,
  *
  */
 .container-2o3qEW {
-  background-color: var(--main-color);
+  background-color: var(--sidebar-channelselection-color);
 }
 
 .members-3WRCEx, .members-3WRCEx > div {
-  background-color: var(--main-color);
+  background-color: var(--sidebar-channelselection-color);
 }
 .members-3WRCEx .container-1oeRFJ {
   width: 100%;
@@ -1505,7 +1507,7 @@ body,
  */
 .searchResultsWrap-5RVOkx {
   margin: 12px 12px 12px 10px;
-  background-color: var(--main-alt);
+  background-color: var(--sidebar-channelselection-color);
   border-radius: var(--popout-radius-big);
 }
 
