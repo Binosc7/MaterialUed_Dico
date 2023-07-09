@@ -97,7 +97,7 @@
   --separator-color: rgba(255,255,255,0.125);
   --header-secondary: #eaeaea;
   --profile-body-background-color: #222326;
-  --input-color: hsl(240,4%,16%);
+  --input-color: #2c2d31;
   --input-color-alt: hsl(240,2%,22%);
   --input-border-color: hsl(0,0%,29%);
   --input-text-color: hsl(0,0%,85%);
@@ -11391,7 +11391,7 @@ body:active .container-18GwIk:not(:active) {
 .userProfileInner-1ngKnf .inputWrapper-2K8ds1 .input-3O04eu {
   padding: 0 12px;
   background-color: var(--input-color);
-  border-radius: var(--input-radius);
+  border-radius: 4px;
 }
 .userProfileInner-1ngKnf .inputWrapper-2K8ds1 .input-3O04eu::-webkit-input-placeholder {
   font-family: var(--app-font);
@@ -11600,7 +11600,7 @@ body:active .menu-KSaHL1:not(:active) {
 
 .userProfileInner-1ngKnf .textarea-_59yqs {
   padding: 6px 12px;
-  border-radius: var(--input-radius);
+  border-radius: 4px;
   box-shadow: none !important;
   font-size: 14px;
 }
