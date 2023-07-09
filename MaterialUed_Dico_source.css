@@ -6724,7 +6724,7 @@ div[role=radiogroup] {
   width: calc(var(--message-radius) / 3);
   height: calc(var(--message-radius) / 2);
   top: calc(var(--message-radius) / 2 * -1);
-  background-color: transparent;
+  background-color: var(--message-color);
   pointer-events: none;
   transition: var(--default-time) var(--default-animation) background-color;
 }
