@@ -1,15 +1,15 @@
 /* 
- *Copyright ⓒ 2023 Suchan7820. All rights reserved.
+ *Copyright ⓒ 2023 Binosc7. All rights reserved.
  *
  * projectname: MaterialUed_Dico
  * description: A theme Inspired by Google's MaterialU
- * author: Suchan7820
- * github profile: http://github.com/Suchan7820
+ * author: Binosc7
+ * github profile: http://github.com/Binosc7
  * plz donate me: https://toss.me/binosc7/
  */
 
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css");
-@import url("https://suchan7820.github.io/MaterialUed_Dico/css/icons.css");
+@import url("https://Binosc7.github.io/MaterialUed_Dico/css/icons.css");
 :root {
   --app-font: "Pretendard";
   --app-bg: var(--main-alt);
@@ -1178,8 +1178,8 @@ body,
   bottom: 0;
   right: 0;
   background-color: var(--accent-text-color--material-you);
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/solid/expand.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/solid/expand.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/solid/expand.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/solid/expand.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
@@ -2334,50 +2334,50 @@ body,
 }
 .menu-2TXYjN #message-imageutilities-copy-link.item-5ApiZt:after {
   background-color: currentColor;
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/content_copy.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/content_copy.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/content_copy.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/content_copy.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 .menu-2TXYjN #message-imageutilities-copy-media-link.item-5ApiZt:after {
   background-color: currentColor;
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/content_copy.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/content_copy.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/content_copy.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/content_copy.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 .menu-2TXYjN #message-imageutilities-open-link.item-5ApiZt:after {
   background-color: currentColor;
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/open_in_new.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/open_in_new.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/open_in_new.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/open_in_new.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 .menu-2TXYjN #message-imageutilities-copy-file.item-5ApiZt:after {
   background-color: currentColor;
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/image_copy.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/image_copy.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/image_copy.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/image_copy.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 .menu-2TXYjN #message-imageutilities-view-file.item-5ApiZt:after {
   background-color: currentColor;
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/image_view.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/image_view.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/image_view.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/image_view.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 .menu-2TXYjN #message-imageutilities-download-file-as.item-5ApiZt:before {
   background-color: currentColor;
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/save.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/save.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/save.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/save.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 .menu-2TXYjN #message-imageutilities-submenu-search.item-5ApiZt:before {
   background-color: currentColor;
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/search.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/search.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/search.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/search.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
@@ -4419,8 +4419,8 @@ path[d="M22 12L12.101 2.10101L10.686 3.51401L12.101 4.92901L7.15096 9.87801V9.88
 .bd-notice-close {
   right: 8px;
   background-color: var(--accent-text-color--material-you);
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/close.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/close.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/close.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/close.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   background-image: none;
@@ -7391,8 +7391,8 @@ body:active .root-1CAIjD .container-18GwIk:not(:active) {
   bottom: 0;
   margin: auto 0;
   background-color: var(--text-muted);
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/chevron_right.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/chevron_right.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/chevron_right.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/chevron_right.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   -webkit-mask-size: 100%;
@@ -12117,8 +12117,8 @@ body:active .menu-KSaHL1:not(:active) {
   width: 18px;
   height: 18px;
   background-color: var(--text-normal);
-  -webkit-mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/close.svg);
-  mask-image: url(https://suchan7820.github.io/MaterialUed_Dico/files/icons/outline/close.svg);
+  -webkit-mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/close.svg);
+  mask-image: url(https://Binosc7.github.io/MaterialUed_Dico/files/icons/outline/close.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   transform: scale(1.333333);
