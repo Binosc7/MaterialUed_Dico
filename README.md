@@ -1,5 +1,5 @@
 # MaterialUed_Dico
-####A Discord theme inspired by Google's MaterialU UI.
+#### A Discord theme inspired by Google's MaterialU UI.
 
 Vencord link
 ```
