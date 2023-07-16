@@ -11423,7 +11423,7 @@ body:active .container-18GwIk:not(:active) {
 }
 
 .banner-1YaD3N, .banner-3D8GgT {
-  border-radius: var(--popout-radius-big);
+  border-radius: 0px;
 }
 
 .profileBadges-2pItdR {
