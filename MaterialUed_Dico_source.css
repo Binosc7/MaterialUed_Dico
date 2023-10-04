@@ -785,7 +785,7 @@ body,
   position: relative;
 }
 .panels-3wFtMD .button-12Fmur:hover {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 .panels-3wFtMD .button-12Fmur:after {
   content: " ";
