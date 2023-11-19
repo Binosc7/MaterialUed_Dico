@@ -992,10 +992,6 @@ body,
     background: var(--sidebar-panel-color) !important;
 }
 
-    .activityPanel__22355 .gameIcon_f12921 {
-        border-radius: 50%;
-    }
-
 .container_d667ff .actionButtons_b58cbb .button_afdfd9 {
     --button-padding: 0 12px;
 }
@@ -7349,7 +7345,7 @@ div[role=radiogroup].group__6ae8b {
 
 .wrapper_f46140 {
     background-color: hsl(var(--accent-hsl), 0.15);
-    border-radius: var(--card-radius);
+    border-radius: var(--message-radius);
     color: hsl(var(--accent-hsl));
     transition: var(--default-time) var(--default-animation) background-color;
 }
@@ -17928,4 +17924,22 @@ body:active .menu-KSaHL1:not(:active) {
     to {
         box-shadow: 0 0 6px hsl(var(--accent-hsl--material-you), 0.3);
     }
+}
+
+/* Default Settings */
+:root {
+    --accent-hue: 224;
+    --accent-saturation: 71%;
+    --accent-lightness: 61%;
+    --accent-text-color: #fff;
+    --accent-button-action: #fff;
+    --avatar-radius: 50%;
+    --message-radius: 4px;
+    --message-padding-top: 8px;
+    --message-padding-side: 6px;
+    --media-radius: 8px;
+    --card-radius: 8px;
+    --card-radius-big: 8px;
+    --popout-radius: 8px;
+    --popout-radius-big: 8px;
 }
